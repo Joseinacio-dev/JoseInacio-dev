@@ -12,7 +12,7 @@
 
 ### 💼 Sobre mim
 
-Desenvolvedor **Fullstack** com uma raiz forte em **backend** e um olho atento para a camada visual das aplicações. Estudante de tecnologia no **Inatel**, atuo também no setor de **TI da Prefeitura de Cássia**, onde aplico desenvolvimento de software em soluções reais para o setor público.
+Desenvolvedor **Fullstack** com uma raiz forte em **backend** e um olho atento para a camada visual das aplicações. Estudante de eng.de software no **Unifran**, atuo também no setor de **TI da Prefeitura de Cássia**, onde aplico desenvolvimento de software em soluções reais para o setor público.
 
 Gosto de transformar problemas do dia a dia em sistemas funcionais — da lógica do servidor até os detalhes de interface que fazem a experiência ser boa de usar.
 
