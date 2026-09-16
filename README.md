@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá, eu sou José Inácio Costa 👋</h1>
 
 <h3 align="center">Estudante de Engenharia de Software | Desenvolvedor em formação</h3>
@@ -24,7 +23,7 @@ Sou estudante de **Engenharia de Software na UNIFRAN**, com previsão de conclus
 
 Atualmente atuo como **Estagiário de TI na Prefeitura Municipal de Cássia**, adquirindo experiência prática com tecnologia, suporte a usuários, manutenção de computadores, configuração de sistemas e resolução de problemas em ambiente corporativo.
 
-Também desenvolvo projetos próprios com o objetivo de colocar em prática o que aprendo durante minha formação e evoluir constantemente como desenvolvedor.
+Também desenvolvo projetos próprios para colocar em prática o que aprendo durante minha formação e evoluir constantemente na área de desenvolvimento de software.
 
 ---
 
@@ -36,7 +35,7 @@ O **DiagPro** é meu principal projeto pessoal.
 
 É uma aplicação desktop desenvolvida com foco em auxiliar assistências técnicas no diagnóstico e gerenciamento de dispositivos.
 
-Durante o desenvolvimento do projeto venho trabalhando com interface desktop, autenticação, banco de dados, integração entre frontend e backend, testes e organização de uma aplicação completa.
+Durante o desenvolvimento do projeto venho trabalhando com interface desktop, autenticação, integração entre frontend e backend, banco de dados, testes e organização de uma aplicação completa.
 
 <p>
   <a href="https://github.com/joseinaciofacul-sketch/DiagPro">
@@ -80,7 +79,7 @@ Durante o desenvolvimento do projeto venho trabalhando com interface desktop, au
 - 💼 **Estagiário de TI — Prefeitura Municipal de Cássia**
 - 💻 Desenvolvendo e aprimorando o **DiagPro**
 - 🐍 Aprimorando meus conhecimentos em **Python**
-- ⚛️ Evoluindo no desenvolvimento de interfaces com **React**
+- ⚛️ Evoluindo no desenvolvimento com **React**
 - 🔧 Aprendendo através de projetos e problemas reais
 
 ---
@@ -97,7 +96,7 @@ Durante o desenvolvimento do projeto venho trabalhando com interface desktop, au
 
 ---
 
-## 📊 GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joseinaciofacul-sketch&show_icons=true&theme=github_dark&hide_border=true">
@@ -118,4 +117,3 @@ Estou sempre buscando aprender, desenvolver novos projetos e ampliar minha exper
     <img src="https://img.shields.io/badge/Conecte--se%20comigo%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-```
