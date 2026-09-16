@@ -72,9 +72,9 @@ O projeto surgiu com o objetivo de aplicar conhecimentos de programação na cri
 - 💼 **Estagiário de TI — Prefeitura Municipal de Cássia**
 - 💻 Desenvolvendo e aprimorando o **DiagPro**
 - 🐍 Aprimorando meus conhecimentos em **Python**
+- 🤖 Aprimorando meus conhecimentos em **Inteligência Artificial e aplicações de IA no desenvolvimento de software**
 - 💻 Praticando desenvolvimento com **JavaScript, HTML e CSS**
 - 📚 Aprendendo através da faculdade, projetos e problemas reais
-
 ---
 
 ## 📌 Projeto principal
