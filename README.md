@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou José Inácio Costa Neto 👋</h1>
+<h1 align="center">Olá, eu sou José Inácio Costa Neto </h1>
 
 <h3 align="center">Estudante de Engenharia de Software | Desenvolvedor em formação</h3>
 
